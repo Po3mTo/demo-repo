@@ -1,1 +1,1 @@
-print("siemanko to ja")
+print("siemanko to ja Piotrek!")
