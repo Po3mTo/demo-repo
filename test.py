@@ -1,0 +1,1 @@
+print("siemanko to ja")
