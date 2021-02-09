@@ -8,6 +8,6 @@ word = ''
 for i in range(7):
     word += random.choice(letters_numbers)
 word1 = ''.join(random.sample(letters_numbers,7))
-word = random.choices(letter_numbers, k=7)    
+word = random.choices(letters_numbers, k=7)    
 print(word)
 print(word1)
